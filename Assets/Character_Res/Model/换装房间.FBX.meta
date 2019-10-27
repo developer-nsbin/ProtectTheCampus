@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: aba28b840f489364e9a73bf9f77df147
+timeCreated: 1568879329
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bashou
+    100002: bashou001
+    100004: bashou002
+    100006: bashou003
+    100008: Box001
+    100010: Box002
+    100012: Box003
+    100014: Box004
+    100016: Box005
+    100018: Cylinder001
+    100020: Plane001
+    100022: Plane002
+    100024: Plane003
+    100026: Rectangle001
+    100028: Rectangle002
+    100030: Rectangle003
+    100032: Rectangle004
+    100034: Rectangle005
+    100036: Rectangle006
+    100038: Rectangle007
+    100040: Rectangle008
+    100042: VRayLight001
+    100044: YIGUI
+    100046: //RootNode
+    400000: bashou
+    400002: bashou001
+    400004: bashou002
+    400006: bashou003
+    400008: Box001
+    400010: Box002
+    400012: Box003
+    400014: Box004
+    400016: Box005
+    400018: Cylinder001
+    400020: Plane001
+    400022: Plane002
+    400024: Plane003
+    400026: Rectangle001
+    400028: Rectangle002
+    400030: Rectangle003
+    400032: Rectangle004
+    400034: Rectangle005
+    400036: Rectangle006
+    400038: Rectangle007
+    400040: Rectangle008
+    400042: VRayLight001
+    400044: YIGUI
+    400046: //RootNode
+    2100000: "\u5899\u7EB8hua"
+    2100002: DIBAN
+    2100004: "\u5899\u7EB8"
+    2100006: "\u6728\u7EB9"
+    2100008: 02 - BASHOU
+    2100010: 06 - Default
+    2100012: HAIBAO
+    2300000: bashou
+    2300002: bashou001
+    2300004: bashou002
+    2300006: bashou003
+    2300008: Box001
+    2300010: Box002
+    2300012: Box003
+    2300014: Box004
+    2300016: Box005
+    2300018: Cylinder001
+    2300020: Plane001
+    2300022: Plane002
+    2300024: Plane003
+    2300026: Rectangle001
+    2300028: Rectangle002
+    2300030: Rectangle003
+    2300032: Rectangle004
+    2300034: Rectangle005
+    2300036: Rectangle006
+    2300038: Rectangle007
+    2300040: Rectangle008
+    3300000: bashou
+    3300002: bashou001
+    3300004: bashou002
+    3300006: bashou003
+    3300008: Box001
+    3300010: Box002
+    3300012: Box003
+    3300014: Box004
+    3300016: Box005
+    3300018: Cylinder001
+    3300020: Plane001
+    3300022: Plane002
+    3300024: Plane003
+    3300026: Rectangle001
+    3300028: Rectangle002
+    3300030: Rectangle003
+    3300032: Rectangle004
+    3300034: Rectangle005
+    3300036: Rectangle006
+    3300038: Rectangle007
+    3300040: Rectangle008
+    4300000: Rectangle001
+    4300002: Rectangle002
+    4300004: Rectangle003
+    4300006: Plane001
+    4300008: Plane002
+    4300010: Rectangle006
+    4300012: Box002
+    4300014: bashou002
+    4300016: bashou001
+    4300018: bashou
+    4300020: bashou003
+    4300022: Rectangle005
+    4300024: Rectangle007
+    4300026: Rectangle008
+    4300028: Box005
+    4300030: Box004
+    4300032: Box003
+    4300034: Box001
+    4300036: Rectangle004
+    4300038: Cylinder001
+    4300040: Plane003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

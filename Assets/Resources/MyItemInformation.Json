@@ -1,0 +1,146 @@
+﻿[
+    {
+        "id": 1,
+        "name": "小斧头",
+        "type": "Weapon",
+        "description": "攻击力+20",
+        "capacity": 1,
+        "buyPrice": 20,
+        "sprite": "Export/Attack+20"
+    },
+    {
+        "id": 2,
+        "name": "小弓箭",
+        "type": "Weapon",
+        "description": "攻击力+50",
+        "capacity": 1,
+        "buyPrice": 50,
+        "sprite": "Export/Attack+50"
+    },
+    {
+        "id": 3,
+        "name": "小利剑",
+        "type": "Weapon",
+        "description": "攻击力+100",
+        "capacity": 1,
+        "buyPrice": 100,
+        "sprite": "Export/Attack+100"
+    },
+    {
+        "id": 4,
+        "name": "小头盔",
+        "type": "Equipment",
+        "description": "防御力+50",
+        "capacity": 1,
+        "buyPrice": 50,
+        "sprite": "Export/Defence+50"
+    },
+    {
+        "id": 5,
+        "name": "小披风",
+        "type": "Equipment",
+        "description": "防御力+80",
+        "capacity": 1,
+        "buyPrice": 80,
+        "sprite": "Export/Defence+80"
+    },
+    {
+        "id": 6,
+        "name": "小腰带",
+        "type": "Equipment",
+        "description": "防御力+100",
+        "capacity": 1,
+        "buyPrice": 100,
+        "sprite": "Export/Defence+100"
+    },
+    {
+        "id": 7,
+        "name": "小肩甲",
+        "type": "Equipment",
+        "description": "防御力+150",
+        "capacity": 1,
+        "buyPrice": 150,
+        "sprite": "Export/Defence+150"
+    },
+    {
+        "id": 8,
+        "name": "小盾牌",
+        "type": "Equipment",
+        "description": "防御力+200",
+        "capacity": 1,
+        "buyPrice": 200,
+        "sprite": "Export/Defence+200"
+    },
+    {
+        "id": 9,
+        "name": "小苹果",
+        "type": "Consumable",
+        "description": "HP+10",
+        "capacity": 10,
+        "buyPrice": 10,
+        "sprite": "Export/HP+10"
+    },
+    {
+        "id": 10,
+        "name": "小鸡腿",
+        "type": "Consumable",
+        "description": "HP+50",
+        "capacity": 10,
+        "buyPrice": 50,
+        "sprite": "Export/HP+50"
+    },
+    {
+        "id": 11,
+        "name": "小蓝瓶",
+        "type": "Consumable",
+        "description": "HP+80",
+        "capacity": 10,
+        "buyPrice": 80,
+        "sprite": "Export/HP+80"
+    },
+    {
+        "id": 12,
+        "name": "小红药",
+        "type": "Consumable",
+        "description": "HP+100",
+        "capacity": 10,
+        "buyPrice": 100,
+        "sprite": "Export/HP+100"
+    },
+    {
+        "id": 13,
+        "name": "小护腕",
+        "type": "Equipment",
+        "description": "速度+50",
+        "capacity": 1,
+        "buyPrice": 50,
+        "sprite": "Export/Speed+50"
+    },
+    {
+        "id": 14,
+        "name": "小鞋子",
+        "type": "Equipment",
+        "description": "速度+100",
+        "capacity": 1,
+        "buyPrice": 100,
+        "sprite": "Export/Speed+100"
+    },
+    {
+        "id": 15,
+        "name": "小手套",
+        "type": "Equipment",
+        "description": "速度+150",
+        "capacity": 1,
+        "buyPrice": 150,
+        "sprite": "Export/Speed+150"
+    },
+    {
+        "id": 16,
+        "name": "小戒指",
+        "type": "Equipment",
+        "description": "速度+300",
+        "capacity": 1,
+        "buyPrice": 300,
+        "sprite": "Export/Speed+100"
+    }
+]
